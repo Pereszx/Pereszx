@@ -2,7 +2,7 @@
 
 - 👨🏼‍💻 Atualmente sou Estudante de Engenharia de Software
 - 💭 Tenho conhecimentos nas linguagens: HTML, CSS e JS
-- 📘 Estudando: node.js
+- 📘 Estudando: React e Node.js
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
