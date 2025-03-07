@@ -1,16 +1,18 @@
 ## Hello World! Eu sou o Kauã Peres 👋
 
-- 👨🏼‍💻 Atualmente sou Estudante de Engenharia de Software
-- 💭 Tenho conhecimentos nas linguagens: HTML, CSS e JS
+- 👨🏼‍💻 Atualmente no 3° semestre de Engenharia de Software
+- 🏃Hobbies: Programação, Videogames e Esportes
 - 📘 Estudando: React e Node.js
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kaua-Bt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Kaua-Bt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Kaua-Bt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Kaua-Bt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" />
+  <img align="center" alt="Kaua-Bt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" />
+  
+          
 </div>
 
 ##
