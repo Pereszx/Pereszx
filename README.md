@@ -11,6 +11,7 @@
   <img align="center" alt="Kaua-Bt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Kaua-Bt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" />
   <img align="center" alt="Kaua-Bt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Kaua-Bt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   
           
 </div>
