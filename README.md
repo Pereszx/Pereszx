@@ -7,7 +7,7 @@
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cs,mysql,postman,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql,python,flask,vscode,git)](https://skillicons.dev)
   
           
 </div>
@@ -17,5 +17,5 @@
 <div>
   <a href="https://www.instagram.com/peres_mill?igsh=MTliOWx6YmxuY2I2eg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="mailto:kauaperessudre13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kauãperessudre" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kauaperessudre" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
