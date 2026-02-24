@@ -7,7 +7,7 @@
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql,python,flask,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,typescript,mysql,vscode,git)](https://skillicons.dev)
   
           
 </div>
