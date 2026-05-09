@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&pause=1000&width=435&lines=Fala+Dev!+Me+chamo+Kauã+Peres+Sudre)](https://git.io/typing-svg)
 ## Sobre mim
-- 👨🏼‍💻 Atualmente no 4° semestre de Engenharia de Software
-- 💻 Desenvolvedor em formação, com experiência em HTML, CSS, JavaScript e Python
-- ⚙️ Estudando React e C#
-- 📚 Apaixonado por resolver problemas, aprender novas tecnologias e escrever código limpo
+- 👨🏼‍💻 Atualmente no 5° semestre de Engenharia de Software.
+- 💻 Desenvolvedor em formação.
+- 📚 Apaixonado por resolver problemas e aprender novas tecnologias.
 
 ## Tecnologias
 
